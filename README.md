@@ -27,7 +27,7 @@ This application allows users to interactively chat about uploaded PDF documents
     pip install streamlit python-dotenv PyPDF2 langchain tiktoken
     ```
 
-3. To install the necessary dependencies, run the following command:
+2. To install the necessary dependencies, run the following command:
    ```bash
     pip install -r requirements.txt
     ``` 
@@ -84,4 +84,3 @@ if __name__ == "__main__":
 - **Upload Documents:** Upload multiple PDFs.
 - **Chat Interface:** Enter questions to chat about the uploaded documents.
 - **Processing:** Text extraction, chunking, and conversation setup are handled internally.
-- Feel free to adapt and expand this codebase to suit your needs.
