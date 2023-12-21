@@ -79,8 +79,4 @@ if __name__ == "__main__":
 2. **Upload PDF documents.**
 3. **Enter questions about the documents to initiate conversation.**
 
-## Functionality
 
-- **Upload Documents:** Upload multiple PDFs.
-- **Chat Interface:** Enter questions to chat about the uploaded documents.
-- **Processing:** Text extraction, chunking, and conversation setup are handled internally.
