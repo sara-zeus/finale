@@ -66,3 +66,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+## Usage
+
+1. **Run the application.**
+2. **Upload PDF documents.**
+3. **Enter questions about the documents to initiate conversation.**
+
+## Functionality
+
+- **Upload Documents:** Upload multiple PDFs.
+- **Chat Interface:** Enter questions to chat about the uploaded documents.
+- **Processing:** Text extraction, chunking, and conversation setup are handled internally.
+- Feel free to adapt and expand this codebase to suit your needs.
