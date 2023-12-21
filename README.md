@@ -27,9 +27,14 @@ This application allows users to interactively chat about uploaded PDF documents
     pip install streamlit python-dotenv PyPDF2 langchain tiktoken
     ```
 
-2. Run the application:
+2. To install the necessary dependencies, run the following command:
+ ```bash
+    pip install -r requirements.txt
+    ``` 
+
+3. Run the application:
     ```bash
-    streamlit run your_script_name.py
+    streamlit run app.py
     ```
 
 ## Code Overview
