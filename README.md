@@ -16,3 +16,53 @@ The primary goals of this project are to:
 
 
   
+# Chat with Multiple PDFs
+
+This application allows users to interactively chat about uploaded PDF documents.
+
+## Setup
+
+1. Install the necessary dependencies:
+    ```bash
+    pip install streamlit python-dotenv PyPDF2 langchain tiktoken
+    ```
+
+2. Run the application:
+    ```bash
+    streamlit run your_script_name.py
+    ```
+
+## Code Overview
+
+```python
+import streamlit as st
+from dotenv import load_dotenv
+from PyPDF2 import PdfReader
+# ... (import other necessary libraries)
+
+# Function to extract text from PDFs
+def get_pdf_text(pdf_docs):
+    # ...
+
+# Function to split text into chunks
+def get_text_chunks(text):
+    # ...
+
+# Function to create a vector store from text chunks
+def get_vectorstore(text_chunks):
+    # ...
+
+# Function to set up the conversation chain
+def get_conversation_chain(vectorstore):
+    # ...
+
+# Function to handle user input and display conversation
+def handle_userinput(user_question):
+    # ...
+
+# Main function
+def main():
+    # ...
+
+if __name__ == "__main__":
+    main()
