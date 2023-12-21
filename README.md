@@ -4,7 +4,7 @@
 
 ### Objectives
 
-The primary goals of this tutorial are to:
+The primary goals of this project are to:
 
 - **Introduce LangChain:** Explore the principles of LangChain, emphasizing its data awareness and agency for language model-powered applications.
 - **Utilize ChatGPT API:** Leverage ChatGPT's capabilities to enable interaction with PDF documents in novel ways.
