@@ -15,14 +15,4 @@ The primary goals of this project are to:
 - **Unlock Innovation:** Demonstrate the potential of ChatGPT and LangChain to inspire developers in creating innovative AI applications.
 
 
-## Key Tutorial Content
-
-The tutorial covers essential aspects:
-
-- **LangChain Introduction:** Understanding data-awareness and agentic features.
-- **ChatGPT API Exploration:** Exploring its potential in AI applications.
-- **Python Walkthrough:** Step-by-step LangChain integration.
-- **Huggingface Integration:** Enhancing chatbot capabilities.
-- **Project-Based Chatbot Creation:** Answering PDF-based questions.
-- **Optimization and Best Practices:** Leveraging open-source GPT models.
   
